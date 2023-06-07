@@ -1,5 +1,13 @@
 .App {
+  margin: 0 auto;
+  max-width: 1024px;  
+}
+.App h1{
   text-align: center;
+}
+.App #image{
+  width: 100%;
+  margin-bottom: 15px;
 }
 
 .App-logo {
