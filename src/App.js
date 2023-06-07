@@ -1,5 +1,5 @@
 import './App.css';
-import CertificatesList from './components/CertificatesList';
+import CertificatesList from '@/CertificatesList';
 
 function App() {
   return (
